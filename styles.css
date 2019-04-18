@@ -1,0 +1,44 @@
+h1{
+text-align:center;
+border:solid;
+padding:20px;
+background-color: lightblue;
+}
+.item{
+display:flex;
+justify-content: space-between;
+text-align:center;
+border:#FFDF00 solid;
+padding:10px;
+background-color: red;
+border-width: 5px;
+}
+.inputs{
+display:flex;
+justify-content:space-around;
+padding:50px;
+}
+.button{
+display:flex;
+justify-content:space-around;
+}
+.total{
+display:flex;
+justify-content: space-between;
+text-align:center;
+border:#FFDF00 solid;
+padding:10px;
+background-color: blue;
+border-width: 5px;
+}
+div{
+display:block;    
+}
+.master{
+display:flex;
+justify-content:space-around;
+width:1100px;
+}
+button{
+    
+    }
